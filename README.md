@@ -1,2 +1,2 @@
-# ed-music-app-uiux
-Modern music streaming app UI/UX design created in Figma. Features include music &amp; video player, album search, favorites, subtitles, multi-language support, settings, and responsive mobile screens with a clean and modern user experience.
+## 🎨 Figma Design
+[View on Figma](https://www.figma.com/design/eJS1TCQuwqYOeNjolmMUc7/Untitled?node-id=0-1&t=q1Yxc2FGW3kDth8i-1)
